@@ -1,0 +1,18 @@
+{
+  "partners": [
+    {
+      "id": "partner1",
+      "name": "合作伙伴公司名称",
+      "logo": "/logos/partner1.png",
+      "website": "https://example.com",
+      "description": "公司简短描述"
+    },
+    {
+      "id": "partner2", 
+      "name": "另一家合作伙伴",
+      "logo": "/logos/partner2.png",
+      "website": "https://partner2.com",
+      "description": "公司业务描述"
+    }
+  ]
+}
